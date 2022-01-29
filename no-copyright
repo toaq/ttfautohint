@@ -33,8 +33,6 @@ pledgies
 no-copyright
 update-copyright
 #
-aux/qtlocation-2.patch
-#
 doc/footnote-popup.js
 doc/c2pandoc.sed
 doc/fontspec.sty
@@ -57,6 +55,8 @@ lib/llrb.h
 lib/sds.c
 lib/sds.h
 lib/ttfautohint.pc.in
+#
+mxe/qtlocation-2.patch
 #
 frontend/static-plugins.cpp.in
 #

@@ -82,6 +82,6 @@ The following file is distributed for information only; it is not directly
 used to configure or build ttfautohint.
 
   GPL/LGPL:
-    aux/qtlocation-2.patch
+    mxe/qtlocation-2.patch
 
 EOF

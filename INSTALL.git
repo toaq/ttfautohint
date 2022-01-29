@@ -199,7 +199,7 @@ index a8268ac4..17e8ead7 100644
          -system-libpng \
          -system-libjpeg \
 
-  - Copy the file `aux/qtlocation-2.patch' into the mxe directory `src'.
+  - Copy the file `mxe/qtlocation-2.patch' into the mxe directory `src'.
 
   - mxe's default target is `i686-w64-mingw32.static', which builds a 32bit
     static executable.  We want exactly that for the distributed binaries.
