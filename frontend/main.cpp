@@ -1384,7 +1384,7 @@ main(int argc,
   FILE* reference = NULL;
   if (reference_name)
   {
-    reference = fopen(reference_name, "r");
+    reference = fopen(reference_name, "rb");
     if (!reference)
     {
       fprintf(stderr,
