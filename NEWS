@@ -1,3 +1,10 @@
+Version 1.8.5 (2022-XXX-XX)
+---------------------------
+
+  * Bug fix: `ttfautohint`'s option `--reference` didn't work on Windows
+    platforms.
+
+
 Version 1.8.4 (2021-Aug-14)
 ---------------------------
 
