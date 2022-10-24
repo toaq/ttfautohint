@@ -162,10 +162,10 @@ typedef struct TA_GlyphHintsRec_* TA_GlyphHints;
 typedef struct TA_ScalerRec_
 {
   FT_Face face; /* source font face */
-  FT_Fixed x_scale; /* from font units to 1/64th device pixels */
-  FT_Fixed y_scale; /* from font units to 1/64th device pixels */
-  FT_Pos x_delta; /* in 1/64th device pixels */
-  FT_Pos y_delta; /* in 1/64th device pixels */
+  FT_Fixed x_scale; /* from font units to 1/64 device pixels */
+  FT_Fixed y_scale; /* from font units to 1/64 device pixels */
+  FT_Pos x_delta; /* in 1/64 device pixels */
+  FT_Pos y_delta; /* in 1/64 device pixels */
   FT_Render_Mode render_mode; /* monochrome, anti-aliased, LCD, etc.*/
   FT_UInt32 flags; /* additional control flags, see above */
 } TA_ScalerRec, *TA_Scaler;
