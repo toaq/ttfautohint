@@ -80,7 +80,7 @@ The file `COPYING` mentioned in the previous paragraph is distributed with
 the ttfautohint library.
 
 
-[ClearType Whitepaper]: https://www.microsoft.com/typography/cleartype/truetypecleartype.aspx
+[ClearType Whitepaper]: https://learn.microsoft.com/en-us/typography/cleartype/truetypecleartype
 [Dalton Maag Ltd]: https://daltonmaag.com
 [DejaVu]: https://dejavu-fonts.github.io/
 [FontForge]: https://fontforge.github.io
@@ -89,7 +89,7 @@ the ttfautohint library.
 [HarfBuzz]: http://harfbuzz.org
 [Infinality]: https://web.archive.org/web/20150710073951/http://www.infinality.net:80/blog/
 [MinGW]: http://mingw.org
-[OpenType specification]: https://www.microsoft.com/typography/otspec
+[OpenType specification]: https://learn.microsoft.com/en-us/typography/opentype/spec/
 [Qt]: https://qt.io
 
 
