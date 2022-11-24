@@ -3063,8 +3063,8 @@ Done1:
 
   ins_len = (FT_UInt)(bufp - ins_buf);
 
-  if (ins_len > sfnt->max_instructions)
-    sfnt->max_instructions = (FT_UShort)ins_len;
+  if ((ins_len + glyph->ins_extra_len) > sfnt->max_instructions)
+    sfnt->max_instructions = (FT_UShort)(ins_len + glyph->ins_extra_len);
 
   glyph->ins_buf = (FT_Byte*)realloc(ins_buf, ins_len);
   glyph->ins_len = ins_len;
