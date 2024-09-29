@@ -20,6 +20,7 @@
 #ifndef TATYPES_H_
 #define TATYPES_H_
 
+#include <config.h>
 #include <ft2build.h>
 
 #include FT_FREETYPE_H

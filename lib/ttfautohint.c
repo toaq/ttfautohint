@@ -15,6 +15,7 @@
 
 /* This file needs FreeType 2.4.5 or newer. */
 
+#include <config.h>
 #include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>

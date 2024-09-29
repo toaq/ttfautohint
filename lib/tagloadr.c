@@ -17,6 +17,7 @@
 
 /* heavily modified 2011 by Werner Lemberg <wl@gnu.org> */
 
+#include <config.h>
 #include <stdlib.h>
 #include <string.h>
 

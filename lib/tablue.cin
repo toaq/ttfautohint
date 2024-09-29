@@ -16,6 +16,7 @@
 /* originally file `afblue.c' (2013-Aug-28) from FreeType */
 
 
+#include <config.h>
 #include "tatypes.h"
 
 

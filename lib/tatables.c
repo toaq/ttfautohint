@@ -13,6 +13,7 @@
  */
 
 
+#include <config.h>
 #include <stdlib.h>
 
 #include "ta.h"
