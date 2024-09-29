@@ -117,6 +117,12 @@ SCRIPT(cyrl, CYRL,
        HINTING_BOTTOM_TO_TOP,
        "\xD0\xBE \xD0\x9E") /* о О */
 
+SCRIPT(dern, DERN,
+       "Derani",
+       HB_SCRIPT_UNKNOWN,
+       HINTING_BOTTOM_TO_TOP,
+       "\xF3\xB1\x9A\xBA") /* 󱚺 */
+
 SCRIPT(deva, DEVA,
        "Devanagari",
        HB_SCRIPT_DEVANAGARI,

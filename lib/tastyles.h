@@ -180,6 +180,13 @@ STYLE(cprt_dflt, CPRT_DFLT,
 
 META_STYLE_LATIN(cyrl, CYRL, "Cyrillic")
 
+STYLE(dern_dflt, DERN_DFLT,
+      "Derani default style",
+      TA_WRITING_SYSTEM_LATIN,
+      TA_SCRIPT_DERN,
+      TA_BLUE_STRINGSET_DERN,
+      TA_COVERAGE_DEFAULT)
+
 STYLE(deva_dflt, DEVA_DFLT,
       "Devanagari default style",
       TA_WRITING_SYSTEM_LATIN,

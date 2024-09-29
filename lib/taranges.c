@@ -299,6 +299,20 @@ const TA_Script_UniRangeRec ta_cyrl_nonbase_uniranges[] =
 };
 
 
+const TA_Script_UniRangeRec ta_dern_uniranges[] =
+{
+  TA_UNIRANGE_REC(0xF16B0, 0xF16C6),
+  TA_UNIRANGE_REC(0xF16D2, 0xF16DB),
+  TA_UNIRANGE_REC(      0,       0)
+};
+
+const TA_Script_UniRangeRec ta_dern_nonbase_uniranges[] =
+{
+  TA_UNIRANGE_REC(0xF16CA, 0xF16CE),
+  TA_UNIRANGE_REC(      0,       0)
+};
+
+
 /* There are some characters in the Devanagari Unicode block that are */
 /* generic to Indic scripts; we omit them so that their presence doesn't */
 /* trigger Devanagari. */
