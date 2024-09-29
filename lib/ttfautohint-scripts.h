@@ -119,7 +119,7 @@ SCRIPT(cyrl, CYRL,
 
 SCRIPT(dern, DERN,
        "Derani",
-       HB_SCRIPT_UNKNOWN,
+       HB_SCRIPT_LATIN,
        HINTING_BOTTOM_TO_TOP,
        "\xF3\xB1\x9A\xBA") /* 󱚺 */
 
